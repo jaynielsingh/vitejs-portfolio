@@ -20,6 +20,7 @@ const About = () =>
         <Box data-aos="fade-in"
           data-aos-offset="300"
           data-aos-delay='400'
+          data-aos-duration="1500"
           data-aos-easing="ease-in-sine" sx={{
             display: 'flex',
             justifyContent: 'center',
@@ -34,6 +35,7 @@ const About = () =>
         <Box data-aos="fade-in"
           data-aos-offset="300"
           data-aos-delay='500'
+          data-aos-duration="1500"
           data-aos-easing="ease-in-sine" sx={{
             pt: 5,
           }}>
