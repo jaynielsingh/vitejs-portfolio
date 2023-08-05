@@ -12,14 +12,14 @@ const About = () =>
       // backgroundRepeat: 'no-repeat',
       // width: '100%',
       height: '100%',
-      p: 10
+      p: 5
 
 
     }}>
       <Container maxWidth="md">
         <Box data-aos="fade-in"
           data-aos-offset="300"
-          data-aos-delay='600'
+          data-aos-delay='400'
           data-aos-easing="ease-in-sine" sx={{
             display: 'flex',
             justifyContent: 'center',
@@ -33,14 +33,14 @@ const About = () =>
           }} />
         <Box data-aos="fade-in"
           data-aos-offset="300"
-          data-aos-delay='700'
+          data-aos-delay='500'
           data-aos-easing="ease-in-sine" sx={{
-            pt: 10,
+            pt: 5,
           }}>
           <Typography p={1} variant="h4" align="center" color={'turquoise'}>
             About Me
           </Typography>
-          <Typography py={4} variant="h5" align="center" color='snow'>
+          <Typography py={2} variant="h5" align="center" color='snow'>
             Hi I&#39;m Jayniel Singh, a self taught Full-Stack Developer.  My journey started during the covid pandemic, i had a lot of time on my hand and decided to start learning Python.  After learning Python/Flask, i found out i had more interest in making web applications, so I decided to learn the MERN Stack. While i have came this far, there is still more to learn and better hone my skills.
           </Typography>
         </Box>

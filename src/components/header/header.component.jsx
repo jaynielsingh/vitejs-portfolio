@@ -16,7 +16,7 @@ const Header = () =>
 
   const onClick = () =>
   {
-    window.scrollTo(window.scrollX, 500);
+    window.scrollTo(window.scrollX, 830);
 
   };
 
