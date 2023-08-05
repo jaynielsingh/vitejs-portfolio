@@ -11,7 +11,7 @@ const About = () =>
       // backgroundSize: 'cover',
       // backgroundRepeat: 'no-repeat',
       // width: '100%',
-      height: '100%',
+      height: '100vh',
       p: 5
 
 
