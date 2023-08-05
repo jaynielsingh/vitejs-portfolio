@@ -32,15 +32,17 @@ const Header = () =>
     }}>
       <Box minHeight='100vh' display='flex' justifyContent='center' alignItems='center'>
         <Container maxWidth='md'>
-          <Typography align="center" color='white' variant="h3">
-            <span style={{
-              fontFamily: 'monospace',
-              fontSize: 95, color: 'cyan',
-            }}>J</span>ayniel <span style={{
-              fontFamily: 'monospace',
-              fontSize: 95, color: 'cyan'
-            }}>S</span>ingh
-          </Typography>
+          <Box data-aos='zoom-out' data-aos-easing='linear' data-aos-duration='2000' data-aos-delay='2000'>
+            <Typography align="center" color='white' variant="h3">
+              <span style={{
+                fontFamily: 'monospace',
+                fontSize: 95, color: 'cyan',
+              }}>J</span>ayniel <span style={{
+                fontFamily: 'monospace',
+                fontSize: 95, color: 'cyan'
+              }}>S</span>ingh
+            </Typography>
+          </Box>
           <Typography data-aos='zoom-in' data-aos-easing="linear"
             data-aos-duration="1500" align="center" color='white' variant="h6">
             A full-stack <span style={{
