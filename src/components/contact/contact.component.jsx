@@ -1,5 +1,5 @@
 import { Box, Button, Container, Typography } from '@mui/material';
-import ContactBg from '../../assets/contact-bg-1.jpg';
+import ContactBg from '../../assets/skills-bg.jpg';
 // import ContactImage from '../../assets/contact-bg.png';
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';

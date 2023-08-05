@@ -1,4 +1,4 @@
-import { Box, Container, Typography } from "@mui/material";
+import { Box, Button, Container, Typography } from "@mui/material";
 import AboutImage from '../../assets/about-pic-1.png';
 
 const About = () =>
