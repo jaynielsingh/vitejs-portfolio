@@ -49,7 +49,7 @@ const Header = () =>
               fontFamily: 'monospace',
               fontSize: 30,
               color: 'cyan'
-            }} >mern</span> stack developer
+            }} >mern</span> developer
           </Typography>
           <Box sx={{ color: "white", display: 'flex', justifyContent: 'center', }}>
             <ArrowDownwardIcon onClick={onClick} fontSize="large" sx={{
